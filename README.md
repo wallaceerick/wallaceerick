@@ -11,3 +11,9 @@
 ![Vue](https://img.shields.io/badge/Vue%20-%2335495e.svg?&style=flat-square&logo=vue.js&logoColor=%234FC08D)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+<br><br><br>
+<div align="center">
+  <img src="devcard.svg" width="400" />
+</div>
+<br><br><br>
