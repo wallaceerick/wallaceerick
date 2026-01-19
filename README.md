@@ -7,8 +7,7 @@ Frontend Engineer specialized in Vue, Nuxt and Strapi. Tech Director at Orbital,
 - 🌱 Improving Node.js and Docker skills
 - ⚡ Playstation [trophy hunter](https://psnprofiles.com/WallaceErick_) with 3400+ platinums
 - 📍 São Paulo, BR
-
-[![GitHub Streak](https://streak-stats.demolab.com?card=radical-dark&user=wallaceerick)](https://wallaceerick.com.br)
+[![GitHub Streak](https://streak-stats.demolab.com?card=radical-dark&user=wallaceerick)]([https://wallaceerick.com.br](https://streak-stats.demolab.com?card=radical-dark&user=wallaceerick))
 
 ## 🛠️ Main Stack
 
@@ -32,5 +31,4 @@ Frontend Engineer specialized in Vue, Nuxt and Strapi. Tech Director at Orbital,
 [![Portfolio](https://img.shields.io/badge/Portfolio-FFC904?style=for-the-badge&logo=website&logoColor=black)](https://wallaceerick.com.br)
 [![Orbital](https://img.shields.io/badge/Orbital-FFC904?style=for-the-badge)](https://orbital.company)
 
-<br><br>
 <img src="devcard.svg" width="300" />
