@@ -1,19 +1,36 @@
-# Front End Developer 
-> Since 2007 and Founder of [Orbital](https://orbital.company/)
 
-## Technologies
-> Some of the technologies and tools that i work with:
+## 👨‍💻 Wallace Erick
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Sass](https://img.shields.io/badge/SASS%20-hotpink.svg?style=flat-square&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=javascript)
-![Vue](https://img.shields.io/badge/Vue%20-%2335495e.svg?&style=flat-square&logo=vue.js&logoColor=%234FC08D)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+Frontend Engineer specialized in Vue, Nuxt and Strapi. Tech Director at Orbital, building amazing solutions for amazing clients like Volvo, Volkswagen, Uber, Digio, Rocket Lawyer and Caixa.
 
-<br><br><br>
-<div align="center">
-  <img src="devcard.svg" width="400" />
+- 🔭 Working on [Orbital](https://orbital.company/?utm_source=reference&utm_medium=github&utm_campaign=wallace) since 2018
+- 🌱 Improving Node.js and Docker skills
+- ⚡ Playstation [trophy hunter](https://psnprofiles.com/WallaceErick_) with 3400+ platinums
+- 📍 São Paulo, BR
+
+[![GitHub Streak](https://streak-stats.demolab.com?card=radical-dark&user=wallaceerick)](https://wallaceerick.com.br)
+
+<div align="left">
+
+[![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wallaceerick&theme=radical)](https://github-profile-summary-cards.vercel.app) 
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wallaceerick&theme=radical&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wallaceerick&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-<br><br><br>
+
+## 🛠️ Main Stack
+
+![Main Stack](https://skillicons.dev/icons?i=vue,nuxtjs,js,sass,bootstrap,x,nodejs,php,mysql,x,docker,jenkins,ps,figma,discord)
+
+
+## 🤝 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wallaceerick)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logoColor=white)](https://www.instagram.com/wallaceerick)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logoColor=white)](https://x.com/wallaceerick)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFC904?style=for-the-badge&logo=website&logoColor=black)](https://wallaceerick.com.br)
+[![Orbital](https://img.shields.io/badge/Orbital-FFC904?style=for-the-badge)](https://orbital.company)
+
+<br><br>
+<img src="devcard.svg" width="300" />
