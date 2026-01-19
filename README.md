@@ -10,6 +10,10 @@ Frontend Engineer specialized in Vue, Nuxt and Strapi. Tech Director at Orbital,
 
 [![GitHub Streak](https://streak-stats.demolab.com?card=radical-dark&user=wallaceerick)](https://wallaceerick.com.br)
 
+## 🛠️ Main Stack
+
+![Main Stack](https://skillicons.dev/icons?i=vue,nuxtjs,js,sass,bootstrap,x,nodejs,php,mysql,x,docker,jenkins,ps,figma,discord)
+
 <div align="left">
 
 [![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wallaceerick&theme=radical)](https://github-profile-summary-cards.vercel.app) 
@@ -18,10 +22,6 @@ Frontend Engineer specialized in Vue, Nuxt and Strapi. Tech Director at Orbital,
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wallaceerick&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-
-## 🛠️ Main Stack
-
-![Main Stack](https://skillicons.dev/icons?i=vue,nuxtjs,js,sass,bootstrap,x,nodejs,php,mysql,x,docker,jenkins,ps,figma,discord)
 
 
 ## 🤝 Let's Connect!
