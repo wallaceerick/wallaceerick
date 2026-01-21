@@ -18,9 +18,7 @@ Frontend Engineer specialized in Vue, Nuxt and Strapi. Tech Director at Orbital,
 
 [![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wallaceerick&theme=radical)](https://github-profile-summary-cards.vercel.app) 
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wallaceerick&theme=radical&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wallaceerick&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wallaceerick&theme=radical&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wallaceerick&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
@@ -32,4 +30,3 @@ Frontend Engineer specialized in Vue, Nuxt and Strapi. Tech Director at Orbital,
 [![Portfolio](https://img.shields.io/badge/Portfolio-FFC904?style=for-the-badge&logo=website&logoColor=black)](https://wallaceerick.com.br)
 [![Orbital](https://img.shields.io/badge/Orbital-FFC904?style=for-the-badge)](https://orbital.company)
 
-<img src="devcard.svg" width="300" />
