@@ -12,7 +12,7 @@ Frontend Engineer specialized in Vue, Nuxt and Strapi. Tech Director at Orbital,
 
 ## 🛠️ Main Stack
 
-![Main Stack](https://skillicons.dev/icons?i=vue,nuxtjs,js,sass,bootstrap,x,nodejs,php,mysql,x,docker,jenkins,ps,figma,discord)
+![Main Stack](https://skillicons.dev/icons?i=vue,nuxtjs,js,sass,bootstrap,x,nodejs,nestjs,php,mysql,x,figma,jenkins,docker,yarn)
 
 <div align="left">
 
