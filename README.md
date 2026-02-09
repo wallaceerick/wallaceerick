@@ -8,7 +8,7 @@ Frontend Engineer specialized in Vue, Nuxt and Strapi. Tech Director at Orbital,
 - ⚡ Playstation [trophy hunter](https://psnprofiles.com/WallaceErick_) with 3400+ platinums
 - 📍 São Paulo, BR
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=wallaceerick&theme=dark&hide_border=true&card_width=500&card_height=200)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=wallaceerick&theme=transparent&hide_border=true&card_width=500&card_height=200&ring=FFC904&fire=FFC904&currStreakNum=FFC904&sideLabels=EBEBEB&dates=393939&excludeDaysLabel=EBEBEB&sideNums=EBEBEB&currStreakLabel=FFC904&stroke=272727)](https://git.io/streak-stats)
 
 ## 🛠️ Main Stack
 
@@ -16,9 +16,10 @@ Frontend Engineer specialized in Vue, Nuxt and Strapi. Tech Director at Orbital,
 
 <div align="left">
 
-[![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wallaceerick&theme=radical)](https://github-profile-summary-cards.vercel.app) 
+[![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wallaceerick&theme=radical)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wallaceerick&theme=radical&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wallaceerick&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wallaceerick&theme=radical) [![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wallaceerick&theme=radical)
 </div>
 
 
