@@ -8,7 +8,7 @@ Frontend Engineer specialized in Vue, Nuxt and Strapi. Tech Director at Orbital,
 - ⚡ Playstation [trophy hunter](https://psnprofiles.com/WallaceErick_) with 3400+ platinums
 - 📍 São Paulo, BR
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=wallaceerick&theme=transparent&hide_border=true&card_width=500&card_height=200&ring=FFC904&fire=FFC904&currStreakNum=FFC904&sideLabels=EBEBEB&dates=393939&excludeDaysLabel=EBEBEB&sideNums=EBEBEB&currStreakLabel=FFC904&stroke=272727)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=wallaceerick&theme=transparent&hide_border=true&card_width=500&card_height=200&ring=F3D963&fire=F3D963&currStreakNum=F3D963&sideLabels=BCFCF7&dates=393939&excludeDaysLabel=EBEBEB&sideNums=EA538D&currStreakLabel=A783F8&stroke=272727&background=141320)](https://git.io/streak-stats)
 
 ## 🛠️ Main Stack
 
@@ -16,7 +16,7 @@ Frontend Engineer specialized in Vue, Nuxt and Strapi. Tech Director at Orbital,
 
 <div align="left">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=wallaceerick&theme=transparent&hide_border=true&card_width=500&card_height=200&ring=F3D963&fire=F3D963&currStreakNum=F3D963&sideLabels=BCFCF7&dates=393939&excludeDaysLabel=EBEBEB&sideNums=EA538D&currStreakLabel=A783F8&stroke=272727&background=141320)](https://git.io/streak-stats)
+![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wallaceerick&theme=radical)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wallaceerick&theme=radical)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wallaceerick&theme=radical)
 </div>
