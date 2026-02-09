@@ -8,7 +8,7 @@ Frontend Engineer specialized in Vue, Nuxt and Strapi. Tech Director at Orbital,
 - ⚡ Playstation [trophy hunter](https://psnprofiles.com/WallaceErick_) with 3400+ platinums
 - 📍 São Paulo, BR
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=wallacerick&theme=monokai&hide_border=true&border_radius=0)]([https://git.io/streak-stats](https://streak-stats.demolab.com?user=wallacerick&theme=monokai&hide_border=true&border_radius=0))
+[![GitHub Streak](https://streak-stats.demolab.com?user=wallaceerick&theme=dark&hide_border=true&card_width=500&card_height=200)](https://git.io/streak-stats)
 
 ## 🛠️ Main Stack
 
