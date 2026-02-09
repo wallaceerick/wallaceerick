@@ -16,9 +16,9 @@ Frontend Engineer specialized in Vue, Nuxt and Strapi. Tech Director at Orbital,
 
 <div align="left">
 
-[GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wallaceerick&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wallaceerick&theme=radical)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wallaceerick&theme=radical)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wallaceerick&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wallaceerick&theme=radical)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wallaceerick&theme=radical)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wallaceerick&theme=radical&utcOffset=8)
 </div>
 
 
