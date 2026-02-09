@@ -10,10 +10,6 @@ Frontend Engineer specialized in Vue, Nuxt and Strapi. Tech Director at Orbital,
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=wallaceerick&theme=transparent&hide_border=true&card_width=500&card_height=200&ring=F3D963&fire=F3D963&currStreakNum=F3D963&sideLabels=BCFCF7&dates=393939&excludeDaysLabel=EBEBEB&sideNums=EA538D&currStreakLabel=A783F8&stroke=272727&background=141320)](https://git.io/streak-stats)
 
-## 🛠️ Main Stack
-
-![Main Stack](https://skillicons.dev/icons?i=vue,nuxtjs,js,sass,bootstrap,x,nodejs,nestjs,php,mysql,x,figma,jenkins,docker,yarn)
-
 <div align="left">
 
 ![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wallaceerick&theme=radical)
@@ -21,6 +17,9 @@ Frontend Engineer specialized in Vue, Nuxt and Strapi. Tech Director at Orbital,
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wallaceerick&theme=radical)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wallaceerick&theme=radical)
 </div>
 
+## 🛠️ Main Stack
+
+![Main Stack](https://skillicons.dev/icons?i=vue,nuxtjs,js,sass,bootstrap,x,nodejs,nestjs,php,mysql,x,figma,jenkins,docker,yarn)
 
 ## 🤝 Let's Connect!
 
