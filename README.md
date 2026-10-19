@@ -1,11 +1,11 @@
 
 ## 👨‍💻 Wallace Erick
 
-Frontend Engineer specialized in Vue, Nuxt and Strapi. Tech Director at Orbital, building amazing solutions for amazing clients like Volvo, Volkswagen, Uber, Digio, Rocket Lawyer and Caixa.
+Frontend Engineer specialized in Vue, Nuxt, Strapi and Payload. Tech Director at Orbital, building amazing solutions for amazing clients like Volvo, Volkswagen, Uber, Digio, Rocket Lawyer and Caixa.
 
 - 🔭 Working on [Orbital](https://orbital.company/?utm_source=reference&utm_medium=github&utm_campaign=wallace) since 2018
 - 🌱 Improving Node.js and Docker skills
-- ⚡ Playstation [trophy hunter](https://psnprofiles.com/WallaceErick_) with 3400+ platinums
+- ⚡ Playstation [trophy hunter](https://psnprofiles.com/WallaceErick_) with 3800+ platinums
 - 📍 São Paulo, BR
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=wallaceerick&theme=transparent&hide_border=true&card_width=500&card_height=200&ring=F3D963&fire=F3D963&currStreakNum=F3D963&sideLabels=BCFCF7&dates=393939&excludeDaysLabel=EBEBEB&sideNums=EA538D&currStreakLabel=A783F8&stroke=272727&background=141320)](https://git.io/streak-stats)
